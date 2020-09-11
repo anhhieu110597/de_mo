@@ -37,7 +37,7 @@ const App: () => React$Node = () => {
             <View style={styles.engine}>
               <Text style={styles.footer}>Engine: Hermes</Text>
               <Text style={styles.footer}>Engine: hihi</Text>
-    <Text style={styles.footer}>Engine: hoho</Text>
+    <Text style={styles.footer}>Engine: hoho cai dmm</Text>
             </View>
           )}
           <View style={styles.body}>
